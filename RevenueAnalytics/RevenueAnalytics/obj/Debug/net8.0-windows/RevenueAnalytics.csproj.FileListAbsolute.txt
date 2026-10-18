@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\RevenueAnalytics\RevenueAnalytics\bin\Debug\net8.0-windows\RevenueAnalytics.exe
+C:\Users\Admin\Downloads\RevenueAnalytics\RevenueAnalytics\bin\Debug\net8.0-windows\RevenueAnalytics.deps.json
+C:\Users\Admin\Downloads\RevenueAnalytics\RevenueAnalytics\bin\Debug\net8.0-windows\RevenueAnalytics.runtimeconfig.json
+C:\Users\Admin\Downloads\RevenueAnalytics\RevenueAnalytics\bin\Debug\net8.0-windows\RevenueAnalytics.dll
+C:\Users\Admin\Downloads\RevenueAnalytics\RevenueAnalytics\bin\Debug\net8.0-windows\RevenueAnalytics.pdb
+C:\Users\Admin\Downloads\RevenueAnalytics\RevenueAnalytics\obj\Debug\net8.0-windows\RevenueAnalytics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\RevenueAnalytics\RevenueAnalytics\obj\Debug\net8.0-windows\RevenueAnalytics.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\RevenueAnalytics\RevenueAnalytics\obj\Debug\net8.0-windows\RevenueAnalytics.AssemblyInfo.cs
+C:\Users\Admin\Downloads\RevenueAnalytics\RevenueAnalytics\obj\Debug\net8.0-windows\RevenueAnalytics.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\RevenueAnalytics\RevenueAnalytics\obj\Debug\net8.0-windows\RevenueAnalytics.dll
+C:\Users\Admin\Downloads\RevenueAnalytics\RevenueAnalytics\obj\Debug\net8.0-windows\refint\RevenueAnalytics.dll
+C:\Users\Admin\Downloads\RevenueAnalytics\RevenueAnalytics\obj\Debug\net8.0-windows\RevenueAnalytics.pdb
+C:\Users\Admin\Downloads\RevenueAnalytics\RevenueAnalytics\obj\Debug\net8.0-windows\RevenueAnalytics.genruntimeconfig.cache
+C:\Users\Admin\Downloads\RevenueAnalytics\RevenueAnalytics\obj\Debug\net8.0-windows\ref\RevenueAnalytics.dll
+C:\Users\Admin\Downloads\RevenueAnalytics\RevenueAnalytics\obj\Debug\net8.0-windows\RevenueA.1A2AB94A.Up2Date

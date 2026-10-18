@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\CryptoStockTicker\CryptoStockTicker\bin\Debug\net8.0-windows\CryptoStockTicker.exe
+C:\Users\Admin\Downloads\CryptoStockTicker\CryptoStockTicker\bin\Debug\net8.0-windows\CryptoStockTicker.deps.json
+C:\Users\Admin\Downloads\CryptoStockTicker\CryptoStockTicker\bin\Debug\net8.0-windows\CryptoStockTicker.runtimeconfig.json
+C:\Users\Admin\Downloads\CryptoStockTicker\CryptoStockTicker\bin\Debug\net8.0-windows\CryptoStockTicker.dll
+C:\Users\Admin\Downloads\CryptoStockTicker\CryptoStockTicker\bin\Debug\net8.0-windows\CryptoStockTicker.pdb
+C:\Users\Admin\Downloads\CryptoStockTicker\CryptoStockTicker\obj\Debug\net8.0-windows\CryptoStockTicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\CryptoStockTicker\CryptoStockTicker\obj\Debug\net8.0-windows\CryptoStockTicker.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\CryptoStockTicker\CryptoStockTicker\obj\Debug\net8.0-windows\CryptoStockTicker.AssemblyInfo.cs
+C:\Users\Admin\Downloads\CryptoStockTicker\CryptoStockTicker\obj\Debug\net8.0-windows\CryptoStockTicker.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CryptoStockTicker\CryptoStockTicker\obj\Debug\net8.0-windows\CryptoStockTicker.dll
+C:\Users\Admin\Downloads\CryptoStockTicker\CryptoStockTicker\obj\Debug\net8.0-windows\refint\CryptoStockTicker.dll
+C:\Users\Admin\Downloads\CryptoStockTicker\CryptoStockTicker\obj\Debug\net8.0-windows\CryptoStockTicker.pdb
+C:\Users\Admin\Downloads\CryptoStockTicker\CryptoStockTicker\obj\Debug\net8.0-windows\CryptoStockTicker.genruntimeconfig.cache
+C:\Users\Admin\Downloads\CryptoStockTicker\CryptoStockTicker\obj\Debug\net8.0-windows\ref\CryptoStockTicker.dll
+C:\Users\Admin\Downloads\CryptoStockTicker\CryptoStockTicker\obj\Debug\net8.0-windows\CryptoSt.8C6B5789.Up2Date

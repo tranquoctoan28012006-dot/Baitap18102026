@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\GymMemberManager\bin\Debug\net8.0-windows\GymMemberManager.exe
+C:\Users\Admin\Downloads\GymMemberManager\bin\Debug\net8.0-windows\GymMemberManager.deps.json
+C:\Users\Admin\Downloads\GymMemberManager\bin\Debug\net8.0-windows\GymMemberManager.runtimeconfig.json
+C:\Users\Admin\Downloads\GymMemberManager\bin\Debug\net8.0-windows\GymMemberManager.dll
+C:\Users\Admin\Downloads\GymMemberManager\bin\Debug\net8.0-windows\GymMemberManager.pdb
+C:\Users\Admin\Downloads\GymMemberManager\obj\Debug\net8.0-windows\GymMemberManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\GymMemberManager\obj\Debug\net8.0-windows\GymMemberManager.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\GymMemberManager\obj\Debug\net8.0-windows\GymMemberManager.AssemblyInfo.cs
+C:\Users\Admin\Downloads\GymMemberManager\obj\Debug\net8.0-windows\GymMemberManager.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\GymMemberManager\obj\Debug\net8.0-windows\GymMemberManager.dll
+C:\Users\Admin\Downloads\GymMemberManager\obj\Debug\net8.0-windows\refint\GymMemberManager.dll
+C:\Users\Admin\Downloads\GymMemberManager\obj\Debug\net8.0-windows\GymMemberManager.pdb
+C:\Users\Admin\Downloads\GymMemberManager\obj\Debug\net8.0-windows\GymMemberManager.genruntimeconfig.cache
+C:\Users\Admin\Downloads\GymMemberManager\obj\Debug\net8.0-windows\ref\GymMemberManager.dll
+C:\Users\Admin\Downloads\GymMemberManager\obj\Debug\net8.0-windows\GymMembe.558276D9.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\HospitalMDI\HospitalMDI\bin\Debug\net8.0-windows\HospitalMDI.exe
+C:\Users\Admin\Downloads\HospitalMDI\HospitalMDI\bin\Debug\net8.0-windows\HospitalMDI.deps.json
+C:\Users\Admin\Downloads\HospitalMDI\HospitalMDI\bin\Debug\net8.0-windows\HospitalMDI.runtimeconfig.json
+C:\Users\Admin\Downloads\HospitalMDI\HospitalMDI\bin\Debug\net8.0-windows\HospitalMDI.dll
+C:\Users\Admin\Downloads\HospitalMDI\HospitalMDI\bin\Debug\net8.0-windows\HospitalMDI.pdb
+C:\Users\Admin\Downloads\HospitalMDI\HospitalMDI\obj\Debug\net8.0-windows\HospitalMDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\HospitalMDI\HospitalMDI\obj\Debug\net8.0-windows\HospitalMDI.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\HospitalMDI\HospitalMDI\obj\Debug\net8.0-windows\HospitalMDI.AssemblyInfo.cs
+C:\Users\Admin\Downloads\HospitalMDI\HospitalMDI\obj\Debug\net8.0-windows\HospitalMDI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\HospitalMDI\HospitalMDI\obj\Debug\net8.0-windows\HospitalMDI.dll
+C:\Users\Admin\Downloads\HospitalMDI\HospitalMDI\obj\Debug\net8.0-windows\refint\HospitalMDI.dll
+C:\Users\Admin\Downloads\HospitalMDI\HospitalMDI\obj\Debug\net8.0-windows\HospitalMDI.pdb
+C:\Users\Admin\Downloads\HospitalMDI\HospitalMDI\obj\Debug\net8.0-windows\HospitalMDI.genruntimeconfig.cache
+C:\Users\Admin\Downloads\HospitalMDI\HospitalMDI\obj\Debug\net8.0-windows\ref\HospitalMDI.dll
+C:\Users\Admin\Downloads\HospitalMDI\HospitalMDI\obj\Debug\net8.0-windows\Hospital.58736B86.Up2Date
